@@ -1,0 +1,34 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package semana.pkg1;
+import java.util.Scanner;
+/**
+ *
+ * @author GAGO RAMOS EDUARDO JESÚS
+ */
+public class EJERCICIO6 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        // Realizar un programa que calcule el perímetro y area de las siguientes figuras geométricas: 
+        
+        int b;
+        int h;
+        
+        System.out.print("Ingresa la base: ");
+        Scanner numb = new Scanner(System.in);
+        b = numb.nextInt();
+        System.out.print("Ingresa la altura: ");
+        Scanner numh = new Scanner(System.in);
+        h = numh.nextInt();
+        int per = 2 * b + 2 * h;
+        System.out.println("El perimetro del rectangulo es: " + per);
+        int are = b * h;
+        System.out.println("El area del rectangulo es: " + are);
+    }
+}
