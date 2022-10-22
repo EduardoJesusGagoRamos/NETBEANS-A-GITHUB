@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+// Realizar un programa que permita ingresar 10 números por teclado, el programa debe calcular la multiplicación entre la suma de los primeros 5 números y la suma de los 5 últimos números.
 package semana.pkg1;
 import java.util.Scanner;
 /**
@@ -14,8 +11,7 @@ public class EJERCICIO12 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        // Realizar un programa que permita ingresar 10 números por teclado, el programa debe calcular la multiplicación entre la suma de los primeros 5 números y la suma de los 5 últimos números.
+        // TODO code application logic here       
 
         int numero1;
         int numero2;

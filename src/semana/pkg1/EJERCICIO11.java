@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+// Realizar un programa que calcule la multiplicación de 5 números ingresados por teclado.
 package semana.pkg1;
 import java.util.Scanner;
 /**
@@ -14,8 +11,7 @@ public class EJERCICIO11 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        // 6. Realizar un programa que calcule la multiplicación de 5 números ingresados por teclado.
+        // TODO code application logic here      
 
         int numero1;
         int numero2;

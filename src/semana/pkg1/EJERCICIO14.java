@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+// Calcular la suma de las áreas de 3 círculos cuyos radios son 8.9, 6.7 y 7.9
 package semana.pkg1;
 
 /**
@@ -14,8 +11,7 @@ public class EJERCICIO14 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        // Calcular la suma de las áreas de 3 círculos cuyos radios son 8.9, 6.7 y 7.9
+        // TODO code application logic here       
         
         double pi = 3.14159265;
         double r1 = 8.9;

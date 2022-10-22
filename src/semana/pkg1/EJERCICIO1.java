@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+// Realizar un programa que permita mostrar en pantalla el mensaje “UNIVERSIDAD PERUANA LOS ANDES”
 package semana.pkg1;
 
 /**
@@ -15,7 +12,6 @@ public class EJERCICIO1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        // Realizar un programa que permita mostrar en pantalla el mensaje “UNIVERSIDAD PERUANA LOS ANDES”
         System.out.println("UNIVERSIDAD PERUANA LOS ANDES");
     }
     

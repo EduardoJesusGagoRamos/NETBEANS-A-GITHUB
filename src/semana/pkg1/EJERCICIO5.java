@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+// Realizar un programa que calcule el perímetro y area de las siguientes figuras geométricas: 
 package semana.pkg1;
 import java.util.Scanner;
 /**
@@ -15,8 +12,7 @@ public class EJERCICIO5 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        // Realizar un programa que calcule el perímetro y area de las siguientes figuras geométricas: 
-        
+              
         int a;
   
         System.out.print("Ingresa el lado: ");

@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+// Calcular la suma de las áreas de 8 círculos cuyos radios son 18.9, 16.7, 71.9, 4.6, 6.7, 5.6, .4.7 y 10.
 package semana.pkg1;
 
 /**
@@ -14,8 +11,7 @@ public class EJERCICIO15 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        // Calcular la suma de las áreas de 8 círculos cuyos radios son 18.9, 16.7, 71.9, 4.6, 6.7, 5.6, .4.7 y 10.
+        // TODO code application logic here      
         
         double pi = 3.14159265;
         double r1 = 18.9;

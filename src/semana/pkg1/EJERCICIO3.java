@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+// Realizar un programa que permita calcular la suma de 5 números
 package semana.pkg1;
 
 import java.util.Scanner;
@@ -17,8 +14,7 @@ public class EJERCICIO3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        // Realizar un programa que permita calcular la suma de 5 números
-        
+          
         int numero1;
         int numero2;
         int numero3;
